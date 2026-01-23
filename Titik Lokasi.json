@@ -1,0 +1,5 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[110.30328859919459,-7.023933507878492]},"properties":{"id":1,"Nama":"Faskes usulan 1","Kecamatan":"Mijen","Alasan":"Jauh dari Faskes","Prioritas":1}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[110.33227859357726,-7.034093552638768]},"properties":{"id":2,"Nama":"Faskes usulan 2","Kecamatan":"Mijen","Alasan":"Jauh dari Faskes","Prioritas":3}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[110.29773444139232,-6.999549400453833]},"properties":{"id":3,"Nama":"Faskes usulan 3","Kecamatan":"Ngaliyan","Alasan":"Jauh dari faskes","Prioritas":2}}
+]}
